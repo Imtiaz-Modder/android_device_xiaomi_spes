@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_spes.mk
+    $(LOCAL_DIR)/elytra_spes.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_spes-user \
-   aosp_spes-userdebug \
-    aosp_spes-eng
+    elytra_spes-user \
+   elytra_spes-userdebug \
+    elytra_spes-eng
