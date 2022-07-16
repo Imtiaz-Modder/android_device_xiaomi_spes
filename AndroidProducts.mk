@@ -1,3 +1,4 @@
+
 #
 # Copyright (C) 2022 The LineageOS Project
 #
@@ -5,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_spes.mk
+    $(LOCAL_DIR)/arrow_spes.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_spes-user \
-   aosp_spes-userdebug \
-    aosp_spes-eng
+    arrow_spes-user \
+   arrow_spes-userdebug \
+    arrow_spes-eng
