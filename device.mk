@@ -534,3 +534,4 @@ endif
 # XiaomiParts
 PRODUCT_PACKAGES += \
     XiaomiParts
+
