@@ -533,3 +533,6 @@ endif
 # XiaomiParts
 PRODUCT_PACKAGES += \
     XiaomiParts
+    
+PRODUCT_PACKAGES += \
+    GoogleCameraGo
